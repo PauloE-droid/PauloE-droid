@@ -1,0 +1,30 @@
+What if you want your comments to be on multiple lines?
+
+# comment
+# comment line 2
+# comment line 3
+You can use this by using three consecutive single ' or double quotes " to surround your comment
+
+This works
+
+''' This is the beginning 
+of a multi-line comment.
+Notice that none of this code will run '''
+And this works
+
+""" This is the beginning 
+of a multi-line comment.
+Notice that none of this code will run """
+But mixing single and double quotes doesn't work
+
+""" This is the beginning 
+of a multi-line comment.
+Notice that none of this code will run '''
+
+# Convert this 
+# to a multiline 
+# quote using single or double quotes
+
+"""Convert this 
+to a multiline 
+quote using single or double quotes"""
