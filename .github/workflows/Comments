@@ -1,1 +1,11 @@
+# Explain why something written the way it is:
+# This variable will be used to count the number of words written in ALL CAPS
+all_caps_count = 0
 
+# Faster understanding of what code is intending to do:
+# This code will calculate the odds of your team winning the championship
+calculate_odd_of_winning_championship()
+
+Ignore a line of code and see how a program will run without it:
+# the code below will not run
+# all_lowercase_count = 0
