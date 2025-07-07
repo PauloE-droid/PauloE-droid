@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PauloE-droid
-- 👀 I’m interested in ... learning to code and running code practices between ADO and GitHub.
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... coding and running code practices between ADO and GitHub.
+- 🌱 My current projects ... Python
 - 💞️ I’m looking to collaborate on ... technology projects
-- 📫 How to reach me ... paesteves@hotmail.com
+- 📫 How to reach me ... paesteves21@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
